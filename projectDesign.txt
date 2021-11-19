@@ -5,6 +5,7 @@
     - get the list of all contacts
     - get list of contact sorted by different criteria
     - get list of contacts based on certain filter (first name, country etc.)
+    - searching a contact
 
 - contact object details:
     - first name
@@ -24,6 +25,8 @@
 - perform some string operations
 - some file handling
 - exception handling
+- lambda functions
+- streams
 
 <------------------------- for later ------------------------->
 -- add profile pic to contact object (will use file handling)
