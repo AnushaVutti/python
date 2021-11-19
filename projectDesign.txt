@@ -1,0 +1,33 @@
+- functionalties in the project:
+    - add a contact
+    - remove a contact
+    - edit a contact
+    - get the list of all contacts
+    - get list of contact sorted by different criteria
+    - get list of contacts based on certain filter (first name, country etc.)
+
+- contact object details:
+    - first name
+    - last name
+    - country code
+    - phone number
+    - email address
+    - facebook id (optional)
+    - twitter id  (optional)
+    - website
+    - physical address (another object with house num, address line 1, address line 2 etc, country, zip)
+
+- create separate method for each functionalty
+- make classes for each entity
+- try importing some code file in another file
+- use list, dict, set and other data structures
+- perform some string operations
+- some file handling
+- exception handling
+
+<------------------------- for later ------------------------->
+-- add profile pic to contact object (will use file handling)
+-- add google map location
+-- convert the code to api
+-- develop UI for the whole thing
+-- try recieving data from api and consume it (maybe with spark streaming)
