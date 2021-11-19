@@ -24,7 +24,7 @@
 - use list, dict, set and other data structures
 - perform some string operations
 - some file handling
-- exception handling
+- exception handling (validations for name format)
 - lambda functions
 - streams
 - sql connections (crud operations)
@@ -35,3 +35,4 @@
 -- convert the code to api
 -- develop UI for the whole thing
 -- try recieving data from api and consume it (maybe with spark streaming)
+-- multithreading
