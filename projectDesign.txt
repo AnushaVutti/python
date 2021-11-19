@@ -27,6 +27,7 @@
 - exception handling
 - lambda functions
 - streams
+- sql connections (crud operations)
 
 <------------------------- for later ------------------------->
 -- add profile pic to contact object (will use file handling)
