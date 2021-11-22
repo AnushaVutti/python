@@ -1,0 +1,5 @@
+classes and objects
+    https://www.geeksforgeeks.org/python-classes-and-objects/
+
+String formatting
+    https://realpython.com/python-string-formatting/

@@ -17,3 +17,8 @@ class ContactEntity:
 
     def __str__(self) -> str:
         return "This is contact for {}, with contact number {}".format(self.first_name + " " + self.last_name, self.phonenumber)
+
+    #create parameterized methods
+    #overloaded methods
+    #child classes
+    #method overriding
