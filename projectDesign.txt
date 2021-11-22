@@ -18,6 +18,37 @@
     - website
     - physical address (another object with house num, address line 1, address line 2 etc, country, zip)
 
+    - methods
+        - constructor
+
+validations
+    - Contact class
+        - first name and last name
+            # should contain only alphabets (converted to camel case)
+            # first name should be of minimum length 5 
+            # last name is optional
+        - country code
+            # length 3-4
+            # contain only numbers and symbol '+'
+        - phone number
+            # should be exactly of length 10
+            # contain only digits
+            # not start with digit less than 6
+        - email address
+            # contain only letter, digits, '@' and '.'
+            # minimum length 10
+            # end with .com
+            # not start with number
+        - facebook_id
+            # start with facebook.com
+        - twitter id
+            # start with twitter.com
+        - website
+            # start with www and end with (in, com, gov etc.)
+             
+    - Address class (To be written by Anusha)
+        -
+
 - create separate method for each functionalty
 - make classes for each entity
 - try importing some code file in another file
