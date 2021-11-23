@@ -1,5 +1,6 @@
 classes and objects
     https://www.geeksforgeeks.org/python-classes-and-objects/
+    https://www.programiz.com/python-programming/class
 
 String formatting
     https://realpython.com/python-string-formatting/
